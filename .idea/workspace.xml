@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b438c647-1a97-48c6-acec-fd73a172833c" name="Changes" comment="lr1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Timus/task_1293.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/task_1293/task_1293.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/task_1293/task_1293.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/task_1293/task_1293.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,20 +31,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.task_1293">
-    <configuration name="Zadanie10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba1.Zadanie10" />
+}</component>
+  <component name="RunManager" selected="Application.Timus.task_1293.task_1293">
+    <configuration name="Timus.task_1293.task_1293" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.task_1293.task_1293" />
       <module name="urfu_labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="laba1.*" />
+          <option name="PATTERN" value="Timus.task_1293.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba1.Zadanie6" />
+    <configuration name="Zadanie10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba1.Zadanie10" />
       <module name="urfu_labs" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Timus.task_1293.task_1293" />
         <item itemvalue="Application.task_1293" />
         <item itemvalue="Application.Zadanie10" />
         <item itemvalue="Application.Zadanie9" />
         <item itemvalue="Application.Zadanie8" />
-        <item itemvalue="Application.Zadanie6" />
       </list>
     </recent_temporary>
   </component>
