@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81d2eac-f5f7-40f9-a852-fc0f4343cfb9" name="Changes" comment="Задание 8 лабораторной работы №3">
-      <change afterPath="$PROJECT_DIR$/src/laba3/Zadanie9.java" afterDir="false" />
+    <list default="true" id="c81d2eac-f5f7-40f9-a852-fc0f4343cfb9" name="Changes" comment="Задание 9 лабораторной работы №3">
+      <change afterPath="$PROJECT_DIR$/src/laba3/Zadanie10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +44,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zadanie9">
-    <configuration name="Zadanie5_do_while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba3.Zadanie5_do_while" />
+  <component name="RunManager" selected="Application.Zadanie10">
+    <configuration name="Zadanie10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba3.Zadanie10" />
       <module name="urfu_labs" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie10" />
         <item itemvalue="Application.Zadanie9" />
         <item itemvalue="Application.Zadanie8" />
         <item itemvalue="Application.Zadanie7" />
         <item itemvalue="Application.Zadanie6" />
-        <item itemvalue="Application.Zadanie5_do_while" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670668196889</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Задание 9 лабораторной работы №3">
+      <created>1670670574403</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670670574403</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,7 +238,8 @@
     <MESSAGE value="Задание 6 лабораторной работы №3" />
     <MESSAGE value="Задание 7 лабораторной работы №3" />
     <MESSAGE value="Задание 8 лабораторной работы №3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 8 лабораторной работы №3" />
+    <MESSAGE value="Задание 9 лабораторной работы №3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 9 лабораторной работы №3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
