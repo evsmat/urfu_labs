@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81d2eac-f5f7-40f9-a852-fc0f4343cfb9" name="Changes" comment="laba2">
-      <change afterPath="$PROJECT_DIR$/src/laba3/Zadanie1.java" afterDir="false" />
+    <list default="true" id="c81d2eac-f5f7-40f9-a852-fc0f4343cfb9" name="Changes" comment="Задание 1 лабораторной работы №3">
+      <change afterPath="$PROJECT_DIR$/src/laba3/Zadanie2_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/Zadanie2_switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zadanie1">
+  <component name="RunManager" selected="Application.Zadanie2_if">
     <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="laba3.Zadanie1" />
       <module name="urfu_labs" />
@@ -58,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba2.Zadanie3" />
+    <configuration name="Zadanie2_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba3.Zadanie2_if" />
       <module name="urfu_labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="laba2.*" />
+          <option name="PATTERN" value="laba3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba2.Zadanie4" />
+    <configuration name="Zadanie2_switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba3.Zadanie2_switch" />
       <module name="urfu_labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="laba2.*" />
+          <option name="PATTERN" value="laba3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie2_if" />
+        <item itemvalue="Application.Zadanie2_switch" />
         <item itemvalue="Application.Zadanie1" />
         <item itemvalue="Application.task_1409" />
         <item itemvalue="Application.Zadanie5" />
-        <item itemvalue="Application.Zadanie4" />
-        <item itemvalue="Application.Zadanie3" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670172542910</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Задание 1 лабораторной работы №3">
+      <created>1670656346802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670656346802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +168,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lr1" />
     <MESSAGE value="laba2" />
-    <option name="LAST_COMMIT_MESSAGE" value="laba2" />
+    <MESSAGE value="Задание 1 лабораторной работы №3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 1 лабораторной работы №3" />
   </component>
 </project>
