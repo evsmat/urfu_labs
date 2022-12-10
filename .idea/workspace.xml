@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81d2eac-f5f7-40f9-a852-fc0f4343cfb9" name="Changes" comment="Задание 1 лабораторной работы №3">
-      <change afterPath="$PROJECT_DIR$/src/laba3/Zadanie2_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba3/Zadanie2_switch.java" afterDir="false" />
+    <list default="true" id="c81d2eac-f5f7-40f9-a852-fc0f4343cfb9" name="Changes" comment="Задание 2 лабораторной работы №3">
+      <change afterPath="$PROJECT_DIR$/src/laba3/Zadanie3_do_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/Zadanie3_for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laba3/Zadanie3_while.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,20 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zadanie2_if">
-    <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba3.Zadanie1" />
-      <module name="urfu_labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="laba3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Zadanie3_do_while">
     <configuration name="Zadanie2_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="laba3.Zadanie2_if" />
       <module name="urfu_labs" />
@@ -85,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba2.Zadanie5" />
+    <configuration name="Zadanie3_do_while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba3.Zadanie3_do_while" />
       <module name="urfu_labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="laba2.*" />
+          <option name="PATTERN" value="laba3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_1409" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus.task_1409.task_1409" />
+    <configuration name="Zadanie3_for" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba3.Zadanie3_for" />
       <module name="urfu_labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus.task_1409.*" />
+          <option name="PATTERN" value="laba3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie3_while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba3.Zadanie3_while" />
+      <module name="urfu_labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="laba3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie3_do_while" />
+        <item itemvalue="Application.Zadanie3_while" />
+        <item itemvalue="Application.Zadanie3_for" />
         <item itemvalue="Application.Zadanie2_if" />
         <item itemvalue="Application.Zadanie2_switch" />
-        <item itemvalue="Application.Zadanie1" />
-        <item itemvalue="Application.task_1409" />
-        <item itemvalue="Application.Zadanie5" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670656346802</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Задание 2 лабораторной работы №3">
+      <created>1670657536332</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670657536332</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Задание 2 лабораторной работы №3">
+      <created>1670657546615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670657546615</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +184,7 @@
     <MESSAGE value="lr1" />
     <MESSAGE value="laba2" />
     <MESSAGE value="Задание 1 лабораторной работы №3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 1 лабораторной работы №3" />
+    <MESSAGE value="Задание 2 лабораторной работы №3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 2 лабораторной работы №3" />
   </component>
 </project>
