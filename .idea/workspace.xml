@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81d2eac-f5f7-40f9-a852-fc0f4343cfb9" name="Changes" comment="Задание 9 лабораторной работы №4">
-      <change afterPath="$PROJECT_DIR$/src/laba5/Zadanie1/Zadanie1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba5/Zadanie2/Zadanie2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba5/Zadanie3/Zadanie3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba5/Zadanie4/Zadanie4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba5/Zadanie5/Zadanie5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba5/Zadanie6/Zadanie6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c81d2eac-f5f7-40f9-a852-fc0f4343cfb9" name="Changes" comment="Задание 6 лабораторной работы №5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -293,7 +285,49 @@
       <option name="project" value="LOCAL" />
       <updated>1674224159676</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Задание 1 лабораторной работы №5">
+      <created>1674226374745</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1674226374745</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Задание 2 лабораторной работы №5">
+      <created>1674226381273</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1674226381273</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Задание 3 лабораторной работы №5">
+      <created>1674226389096</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1674226389096</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Задание 4 лабораторной работы №5">
+      <created>1674226394723</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1674226394723</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Задание 5 лабораторной работы №5">
+      <created>1674226402898</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1674226402898</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Задание 6 лабораторной работы №5">
+      <created>1674226408494</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1674226408494</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,8 +342,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lr1" />
-    <MESSAGE value="laba2" />
     <MESSAGE value="Задание 1 лабораторной работы №3" />
     <MESSAGE value="Задание 2 лабораторной работы №3" />
     <MESSAGE value="Задание 3 лабораторной работы №3" />
@@ -329,7 +361,13 @@
     <MESSAGE value="Задание 7 лабораторной работы №4" />
     <MESSAGE value="Задание 8 лабораторной работы №4" />
     <MESSAGE value="Задание 9 лабораторной работы №4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 9 лабораторной работы №4" />
+    <MESSAGE value="Задание 1 лабораторной работы №5" />
+    <MESSAGE value="Задание 2 лабораторной работы №5" />
+    <MESSAGE value="Задание 3 лабораторной работы №5" />
+    <MESSAGE value="Задание 4 лабораторной работы №5" />
+    <MESSAGE value="Задание 5 лабораторной работы №5" />
+    <MESSAGE value="Задание 6 лабораторной работы №5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 6 лабораторной работы №5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
